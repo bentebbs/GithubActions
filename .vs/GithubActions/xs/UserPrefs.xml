@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{73DFB0CC-634A-403D-8AA7-2D90D652A42B}|Default">
-  <MonoDevelop.Ide.ItemProperties.GithubActions FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GithubActions/Program.cs">
+    <Files>
+      <File FileName="GithubActions/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GithubActions" expanded="True">
+            <Node name="GithubActions" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GithubActions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

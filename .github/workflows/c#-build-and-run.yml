@@ -23,5 +23,9 @@ jobs:
       - name: Test
         run: dotnet test --no-restore --verbosity normal
       - name: Run
-        run: dotnet run --project GithubActions/GithubActions.csproj 
-
+        run: dotnet run --project GithubActions/GithubActions.csproj
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: output-files
+          path: bin
